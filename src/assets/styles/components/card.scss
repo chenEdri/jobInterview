@@ -1,0 +1,16 @@
+.card{
+    background-color: rgba(255, 255, 255, 0.25);
+    border: 3px solid #ccc;
+    border-radius: 12px;
+}
+
+.card-body{
+    font-size: 18px;
+    color: #222222;
+    line-height: 28px;
+}
+
+.card-img{
+    min-width: 150px;
+    min-height: 110px;
+}
