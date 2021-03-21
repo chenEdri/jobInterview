@@ -8,7 +8,7 @@ export class Home extends Component {
       <section className="main-container">
         <Jumbo />
         <div>
-          HOME
+          Home sweet home!
         </div>
       </section>
     );
